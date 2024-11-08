@@ -12,3 +12,4 @@ for i in range (intentosT):
 AreaC = Cuadrado**2
 print("Area del cuadrado: ", AreaC)
 print("Area del circulo: ", (AreaC/intentosT)*Acertaron )
+print("Xd")
